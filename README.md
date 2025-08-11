@@ -21,7 +21,7 @@ Sertakan langkah-langkah nya :
 
       c. Setelah muncul, pilih MAC Address
 
-      d. (Login: admin) Password:
+      d. Login: admin, Password:
 
       e. Klik Connect
 
