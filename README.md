@@ -8,7 +8,7 @@ Lakukan logging in ke mikrotik dengan beberapa cara :
 
 Tuliskan langkah-langkah nya :
 
-1. winbox
+**1. winbox**
    
    Cara Pertama yaitu menggunakan aplikasi winbox yang dapat didownload di mikrotik.com,
 
@@ -32,8 +32,11 @@ f. jika sudah berhasil login, maka akan muncul tampilan seperti ini:
 
 ![topologi](scwinbox1.PNG)
 
-2. webfig
-   Cara kedua menggunakan webfig (menggunakan web browser), berikut ini langkah nya
+**2. webfig**
+   
+   Cara kedua menggunakan webfig (menggunakan web browser)
+
+   berikut ini langkah nya:
 
 a. Buka chrome (aplikasi web browser)
 
@@ -44,5 +47,35 @@ browser
 
 ![topologi](scwebfig.PNG)
 
+**3. Telnet**
+
+Cara ketiga menggunakan telnet pada aplikasi putty.
+
+berikut ini langkah nya:
+
+a. Buka putty
+
+b. Klik Tab Telnet
+
+c. Ketik IP Address: 192.168.88.1 (ip default mikrotik)
+
+d. Ketik Port: 23 (port default telnet)
+
+e. Klik Open 
+
+![topologi](scpty.PNG)
+
+f. Login: admin
+Password:
+Tekan Enter
+
+![topologi](scpty1.PNG)
+
+g. Setelah berhasil login, maka akan muncul tampilan mikrotik dalam mode CLI
+
+![topologi](scpty2.PNG)
+
+
+**4. SSH**
 
 
