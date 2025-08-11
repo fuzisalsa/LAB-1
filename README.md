@@ -12,7 +12,7 @@ Tuliskan langkah-langkah nya :
    
    Cara Pertama yaitu menggunakan aplikasi winbox yang dapat didownload di mikrotik.com,
 
-    berikut langkah nya:
+berikut langkah nya:
 
 a. Buka Winbox,
 
