@@ -66,7 +66,9 @@ e. Klik Open
 ![topologi](scpty.PNG)
 
 f. Login: admin
+
 Password:
+
 Tekan Enter
 
 ![topologi](scpty1.PNG)
@@ -77,5 +79,36 @@ g. Setelah berhasil login, maka akan muncul tampilan mikrotik dalam mode CLI
 
 
 **4. SSH**
+
+Cara keempat menggunakan SSH pada aplikasi putty
+
+berikut ini langkah nya:
+
+a. Buka putty
+
+b. Klik Tab SSH
+
+c. Ketik IP Address: 192.168.88.1 (ip default mikrotik)
+
+d. Ketik Port: 23 (port default telnet)
+
+e. Klik Open 
+
+![topologi](scssh1.PNG)
+
+f. Login: admin
+
+password:
+
+Tekan Enter
+
+![topologi](scssh2.PNG)
+
+g. Setelah berhasil login, maka akan muncul tampilan mikrotik dalam mode CLI
+
+![topologi](scssh3.PNG)
+
+**5. FTP (filezilla)**
+
 
 
