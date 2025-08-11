@@ -90,7 +90,7 @@ b. Klik Tab SSH
 
 c. Ketik IP Address: 192.168.88.1 (ip default mikrotik)
 
-d. Ketik Port: 23 (port default telnet)
+d. Ketik Port: 22 (port default telnet)
 
 e. Klik Open 
 
