@@ -25,3 +25,22 @@ Password:
 e. Klik Connect
 
 ![topologi](scwinbox.PNG)
+
+f. jika sudah berhasil login, maka akan muncul tampilan seperti ini:
+
+![topologi](scwinbox1.PNG)
+
+2. webfig
+   Cara kedua menggunakan webfig (menggunakan web browser), berikut ini langkah nya
+
+a. Buka chrome (aplikasi web browser)
+
+b. Pada URL ketik IP Address: 192.168.88.1 (ip default mikrotik)
+
+c. Setelah itu, maka akan muncul tampilan mikrotik dalam mode GUI pada web
+browser
+
+![topologi](scwebfig.PNG)
+
+
+
