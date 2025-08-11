@@ -14,4 +14,4 @@ c. Setelah muncul, pilih MAC Address
 d. Login: admin
 Password:
 e. Klik Connect
-![topologi](sc winbox1.PNG)
+![topologi](sc winbox.PNG)
