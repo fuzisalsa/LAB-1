@@ -134,7 +134,19 @@ Tuliskan langkah-langkah nya :
 
 # Kesimpulan:
 
-      Terdapat 7 cara untuk mengakses atau melakukan remote/log in ke perangkat MikroTik, di antaranya menggunakan Winbox, SSH, Telnet, WebFig, dan FileZilla. Masing-masing metode memiliki keunggulan dan karakteristik tersendiri, baik dari segi tampilan antarmuka, kemudahan penggunaan, maupun tingkat keamanannya. Keberagaman ini memberikan fleksibilitas bagi admin jaringan untuk memilih metode yang paling sesuai dengan kebutuhan dan kondisi jaringan, sehingga pengelolaan MikroTik menjadi lebih efektif dan efisien.
+      Terdapat 7 cara untuk mengakses atau melakukan remote/log in ke perangkat MikroTik, 
+      
+      di antaranya menggunakan Winbox, SSH, Telnet, WebFig, dan FileZilla. 
+      
+      Masing-masing metode memiliki keunggulan dan karakteristik tersendiri, 
+      
+      baik dari segi tampilan antarmuka, kemudahan penggunaan, maupun tingkat keamanannya. 
+      
+      Keberagaman ini memberikan fleksibilitas bagi admin jaringan untuk
+      
+      memilih metode yang paling sesuai dengan kebutuhan dan kondisi jaringan, 
+      
+      sehingga pengelolaan MikroTik menjadi lebih efektif dan efisien.
 
 
 
