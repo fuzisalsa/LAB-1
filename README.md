@@ -5,13 +5,13 @@ logging in mikrotik
 
 ![topologi](topologi1.jpeg)
 
-Lakukan logging in ke mikrotik dengan beberapa cara :
+Melakukan logging in ke mikrotik dengan beberapa cara :
    
-Tuliskan langkah-langkah nya :
+Sertakan langkah-langkah nya :
 
 # 1. winbox 
    
-      Cara Pertama yaitu menggunakan aplikasi winbox yang dapat didownload di mikrotik.com,
+      Cara yang Pertama yaitu menggunakan aplikasi winbox yang dapat didownload di mikrotik.com,
 
       berikut langkah nya:
 
@@ -21,15 +21,13 @@ Tuliskan langkah-langkah nya :
 
       c. Setelah muncul, pilih MAC Address
 
-      d. Login: admin
-
-      Password:
+      d. (Login: admin) Password:
 
       e. Klik Connect
 
    ![topologi](scwinbox.PNG)
 
-      f. jika sudah berhasil login, maka akan muncul tampilan seperti ini:
+      f. jika sudah berhasil, maka akan muncul tampilan seperti ini:
 
    ![topologi](scwinbox1.PNG)
 
@@ -37,7 +35,7 @@ Tuliskan langkah-langkah nya :
    
       Cara kedua menggunakan webfig (menggunakan web browser)
 
-      berikut ini langkah nya:
+      berikut langkah nya:
 
       a. Buka chrome (aplikasi web browser)
 
@@ -52,7 +50,7 @@ Tuliskan langkah-langkah nya :
 
       Cara ketiga menggunakan telnet pada aplikasi putty.
 
-      berikut ini langkah nya:
+      berikut langkah nya:
 
       a. Buka putty
 
@@ -66,11 +64,7 @@ Tuliskan langkah-langkah nya :
 
 ![topologi](scpty.PNG)
 
-      f. Login: admin
-
-      Password:
-
-      Tekan Enter
+      f. Login: admin, no Password, Tekan Enter
 
 ![topologi](scpty1.PNG)
 
@@ -81,9 +75,9 @@ Tuliskan langkah-langkah nya :
 
 # 4. SSH 
 
-      Cara keempat menggunakan SSH pada aplikasi putty
+      Cara yang keempat menggunakan SSH pada aplikasi putty
 
-      berikut ini langkah nya:
+      berikut langkah nya:
 
       a. Buka putty
 
@@ -97,15 +91,11 @@ Tuliskan langkah-langkah nya :
 
 ![topologi](scssh1.PNG)
 
-      f. Login: admin
-
-      password:
-
-      Tekan Enter
+      f. Login: admin, no password, klik enter 
 
 ![topologi](scssh2.PNG)
 
-      g. Setelah berhasil login, maka akan muncul tampilan mikrotik dalam mode CLI
+      g. jika berhasil login, maka akan muncul tampilan mikrotik dalam mode CLI
 
 ![topologi](scssh3.PNG)
 
