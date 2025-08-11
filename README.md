@@ -125,5 +125,10 @@ Tuliskan langkah-langkah nya :
 
 ![topologi](fzia.PNG)
 
+      g. Setelah berhasil login, maka akan muncul tampilan mikrotik dalam mode CLI
+
+![topologi](fzia1.PNG)
+
+
 
 
