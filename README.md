@@ -123,4 +123,7 @@ Tuliskan langkah-langkah nya :
       
       f. Klik Quickconnect
 
+![topologi](fzia.PNG)
+
+
 
