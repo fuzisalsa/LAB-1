@@ -107,11 +107,11 @@ Sertakan langkah-langkah nya :
       c. Username: admin dan without password:     
       d. Klik Quickconnect  
 
-      ![topologi](app.jpeg)
+      ![topologi](mikrotikapp.jpeg)
       
       e. jika berhasil login akan muncul tampilan seperti ini:
 
-      ![topologi](app1.jpeg)
+      ![topologi](mikrotikapp1.jpeg)
 
       
 # 7. console 
