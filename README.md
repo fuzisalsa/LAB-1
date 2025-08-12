@@ -107,11 +107,11 @@ Sertakan langkah-langkah nya :
       c. Username: admin dan without password:     
       d. Klik Quickconnect  
 
-      ![topologi](fzia1.PNG)
+      ![topologi](app.jpeg)
       
       e. jika berhasil login akan muncul tampilan seperti ini:
 
-      ![topologi](fzia1.PNG)
+      ![topologi](app1.jpeg)
 
       
 # 7. console 
@@ -127,20 +127,15 @@ Sertakan langkah-langkah nya :
       h.Tekan Enter  
 
 # Kesimpulan:
-
-      Terdapat 7 cara untuk mengakses atau melakukan remote/log in ke perangkat MikroTik, 
+      dari 7 cara login mikrotik tersebut adalah:
       
-      di antaranya menggunakan Winbox, SSH, Telnet, WebFig, dan FileZilla. 
-      
-      Masing-masing metode memiliki keunggulan dan karakteristik tersendiri, 
-      
-      baik dari segi tampilan antarmuka, kemudahan penggunaan, maupun tingkat keamanannya. 
-      
-      Keberagaman ini memberikan fleksibilitas bagi admin jaringan untuk
-      
-      memilih metode yang paling sesuai dengan kebutuhan dan kondisi jaringan, 
-      
-      sehingga pengelolaan MikroTik menjadi lebih efektif dan efisien.
+      Terdapat 7 cara untuk mengakses atau melakukan remote/log in ke perangkat MikroTik,   
+      di antaranya menggunakan Winbox, SSH, Telnet, WebFig, dan FileZilla.   
+      Masing-masing metode memiliki keunggulan dan karakteristik tersendiri,   
+      baik dari segi tampilan antarmuka, kemudahan penggunaan, maupun tingkat keamanannya.   
+      Keberagaman ini memberikan fleksibilitas bagi admin jaringan untuk  
+      memilih metode yang paling sesuai dengan kebutuhan dan kondisi jaringan,   
+      sehingga pengelolaan MikroTik menjadi lebih efektif dan efisien.  
 
 
 
